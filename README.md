@@ -8,7 +8,7 @@
 - 🤓 I'm a geek love the superheros films, videogames, linux and hardware
 
 ### 📫 How about talking a little or programming <strong>together</strong>? How to reach me: 
-1. Intagram <a href="https://instagram.com/rickcaetano/">@rickCaetano</a>
-2. Email rickbobcs9@gmail.com
+1. Instagram: <a href="https://instagram.com/rickcaetano/">@rickCaetano</a>
+2. Email: rickbobcs9@gmail.com
 
  <image src="/pixel-art-star-wars.gif" style="width:150px;height:150px;" title="star wars tusken raiders reference">
